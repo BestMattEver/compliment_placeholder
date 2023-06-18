@@ -2,7 +2,9 @@ import './App.css';
 import { phraseLibrary} from "./fixtures/phrases";
 
 function App() {
-    const name = 'kate';
+    const queryString = window.location.search;
+    const urlParams = new URLSearchParams(queryString);
+    const name = urlParams.get('name') || 'kate';
     const personalPhrases = phraseLibrary[name];
     const finals = personalPhrases.finals;
     const adjectives = personalPhrases.adjectives;
