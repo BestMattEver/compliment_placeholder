@@ -10,6 +10,8 @@ export const phraseLibrary = {
             "thoughtful",
             "a real looker",
             "compassionate",
+            "a great cook",
+            "a gourmand",
             "easy to be around",
             "easy to be with",
         ],
@@ -44,7 +46,7 @@ export const phraseLibrary = {
     },
     emily: {
         adjectives: [
-            "an underappreciated talent in the podcasting world",
+            "an underappreciated talent in the podcasting world (but not for long)",
             "so funny",
             "able to get along with everyone you're introduced to",
             "have somehow, enviably, learned the art of keeping in touch",
@@ -104,9 +106,10 @@ export const phraseLibrary = {
         ],
         finals: [
             "dont forget to eat lunch",
-            "remember: I must not cringe. Cringe is the mind-killer. Cringe is the little death that brings total obliteration. I will face my cringe. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. When the cringe has gone there will be nothing. Only I will remain.",
+            "remember: you cannot kill cringe. Only the part of you that cringes.",
             "listen to your parents, its upsetting to admit, but they know some stuff",
             "drink some water!",
+            "cant wait to see some of your art",
             "that's the law. I dont make the laws",
             "we're all super proud of you",
             "your list of people to reach out to for help isn't empty until you've reach out to your uncle Matt",
@@ -116,9 +119,14 @@ export const phraseLibrary = {
         adjectives: [
             "such a GREAT dad",
             "cool",
+            "analytical and clever without being annoying.",
+            "somehow up to date on hip stuff, desipte what your kids say",
+            "a good role model",
+            "have always been so incredible at gardening",
+            "are inspirational in how you try to take care of your health",
+            "working so hard for your family",
         ],
         finals: [
-            "ill think of something later",
             "that's the law. I dont make the laws",
         ],
     },
@@ -126,9 +134,13 @@ export const phraseLibrary = {
         adjectives: [
             "such a GREAT mom",
             "cool",
+            "someone who has great taste in novels",
+            "so helpful when someone is feeling bad",
+            "working hard to keep the kids (and gabe) on track",
+            "the mother of doggos and i think thats fantastic",
+            "working so hard for your family",
         ],
         finals: [
-            "ill think of something later",
             "that's the law. I dont make the laws",
         ],
     },
